@@ -107,7 +107,7 @@ for (let j=10; j<=400; j++){
 //Write a loop that will print out every third number starting with 12 and going no higher than 4000
 for (let k = 12; k <= 4000; k += 3){
      console.log(k)
-// }
+ }
 
 //------ B. Get Even ------
 // Print out the numbers that are within the range of 1 - 100
@@ -367,7 +367,7 @@ function printLongestWord (w){
     let longestWord  = "";
     for (let word of w){
         if ( word.length > longestWord.length ){
-            longestWord = w;
+            longestWord = word;
     }
 }
 console.log(longestWord)
@@ -504,5 +504,5 @@ console.log (combineCats(cat1,cat2))
 let level2=(combineCats(combineCats(cat1,cat2),combineCats(cat1,cat2)))
 console.log(level2)
 
-// console.log(combineCats(combineCats(combineCats(cat1,cat2),combineCats(cat1,cat2))),combineCats(combineCats(cat1,cat2),combineCats(cat1,cat2)))
-console.log(combineCats(level2,level2))
+//console.log(combineCats(combineCats(combineCats(cat1,cat2),combineCats(cat1,cat2))),combineCats(combineCats(cat1,cat2),combineCats(cat1,cat2)))
+console.log (combineCats(level2,level2))
