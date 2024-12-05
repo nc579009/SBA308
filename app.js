@@ -14,9 +14,9 @@
 //Defining a variable is combining declaring and assigning like "const d = 5" or "let g = 7"
 
 // What is pseudocoding and why should you do it?
-
+//pseudocoding is similiar to wire framing
 // What percentage of time should be spent thinking about how you're going to solve a problem vs actually typing in code to solve it?
-
+//30% of the time spent thinking and planning and 70% typing in the code and trying to get it to work
 
 
 
