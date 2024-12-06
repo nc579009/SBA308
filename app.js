@@ -172,9 +172,9 @@ console.log (bank_account);
 //---- B. Easy Does It ----
 //Create an array that contains three quotes and store it in a variable called quotes
 let quotes = [
-    "Life is like a box of chocolates",
+    "Any society based on domination supports and condones violence.",
     "You can't separate peace from freedom because no one can be at peace unless he has his freedom ",
-    "Education is the passport to the future"
+    "Anyone who has ever struggled with poverty knows how extremely expensive it is to be poor"
 ]
 
 //---- C. Accessing elements ----
@@ -458,6 +458,7 @@ function oldAndLoud(person){
 }
 
 oldAndLoud(user)
+console
 
 //---------------------------------------------------
 //--------------- Cat Combinator -------------------
